@@ -1,0 +1,8 @@
+This file contains no occurrences of the word "hello" or any of its variations. 
+It’s here to test that the script correctly skips files without the target word.
+
+Bash scripting is not only about automation but also about ensuring scripts are efficient.
+Efficiency means skipping unnecessary work, like editing this file.
+
+By keeping this file intact, the script demonstrates it doesn't modify files unnecessarily.
+This is a useful feature, especially for large directories with mixed content.

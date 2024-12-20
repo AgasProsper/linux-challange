@@ -1,0 +1,12 @@
+HELLO! This file contains uppercase text. 
+Check if the script works correctly on this kind of data.
+hello and HELLO should both be replaced with hi. 
+
+Here’s a random story for testing:
+Hello there, traveler! You’ve come to a mysterious land where Bash scripting is a treasure.
+But beware! The word HELLO can be tricky, hiding in plain sight.
+Will you be able to replace all occurrences of HELLO, Hello, and hello in this file? 
+
+This file is designed to ensure your Bash script does its job perfectly.
+Let’s add more hello occurrences to give it a real challenge: hello, hello, hello.
+Also, don’t forget that the script needs to create backups before modification. HELLO, HELLO, HELLO!

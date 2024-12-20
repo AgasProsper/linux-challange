@@ -1,0 +1,15 @@
+Hello there! This is a sample file to demonstrate Bash scripting. 
+hello world! Let's see how this text is modified.
+Another hello here just to test multiple replacements.
+
+Bash scripting is an essential skill for Linux administrators.
+It allows automating tasks like this one. The word hello appears a few times in this text.
+Do you think the word hello should also appear in uppercase? HELLO, there it is!
+
+Moreover, scripting becomes fun when you see instant results. hello, hello, and hello again.
+Scripts save time by automating repetitive tasks like replacing hello with hi.
+Have you ever used the sed command before? It's fantastic for replacements like these.
+
+HELLO! This paragraph was created just to ensure case-insensitivity is respected.
+Let’s ensure that all instances of hello, HELLO, or Hello are replaced with hi.
+If not, you’ll have to debug the script!

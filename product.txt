@@ -1,0 +1,12 @@
+Hello, this file's name has spaces. Will the script handle it properly? 
+hello, world! Bash scripting is fun.
+
+Handling spaces in file names is a common challenge. 
+Can your script deal with this without breaking? HELLO there!
+
+Adding more text for testing: hello everyone, welcome to Bash scripting 101.
+We’re learning how to automate tasks efficiently. hello hello hello—did you catch all of them?
+Oh, and don’t forget to preserve the original content in the backup. HELLO HELLO HELLO!
+EOF
+
+echo "All files created successfully in the test_files directory!"

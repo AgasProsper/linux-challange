@@ -1,0 +1,10 @@
+hello... hello... hello... just a repetitive example.
+This file is full of hellos for a stress test!
+Even hello in lowercase should be replaced.
+
+Let’s add a few more hellos for testing: hello hello hello hello hello.
+HELLO! This file is screaming hello in uppercase as well. Can your script handle it?
+Hello, hello, hello—it's a great way to test performance.
+
+What about adding some text in between? hello world! hello universe!
+Don’t forget to check if the backup file is created correctly. HELLO again, just in case!
